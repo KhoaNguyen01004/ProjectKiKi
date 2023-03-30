@@ -1,0 +1,25 @@
+.icon {
+    width: 130px;
+    /* adjust the width as needed */
+    position: absolute;
+    top: 0;
+    left: 100px;
+}
+
+.nav {
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+    word-spacing: 20px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: xx-large;
+    font-family: cursive;
+    margin-left: 20px;
+}
+
+.pageBackground{
+    background-color: #D0F5A6;
+}
